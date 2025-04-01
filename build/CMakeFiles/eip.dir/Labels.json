@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/CMakeFiles/eip"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/CMakeFiles/eip.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/CMakeFiles/eip-complete.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-build.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-configure.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-download.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-install.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-mkdir.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-patch.rule"
+		},
+		{
+			"file" : "/home/jonny/R&D/RARARARAR/WORKING-NEW/CIPster/build/build-CIPster/src/eip-stamp/eip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eip"
+		],
+		"name" : "eip"
+	}
+}

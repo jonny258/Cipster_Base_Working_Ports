@@ -1,0 +1,10 @@
+api_doc/
+bin/
+contrib/
+.project
+.cproject
+.settings/
+*.*~
+*~
+CMakeCache.txt
+*.patch
